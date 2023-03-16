@@ -3,6 +3,7 @@ Small utility which allows mass update of GitHub organization name for local git
 
 ## Command line parameters
 
+```
 Usage of org-rename.exe:
   -directory string
         parent directory (default ".")
@@ -12,3 +13,4 @@ Usage of org-rename.exe:
         new organization name (default "PerkinElmerAES")
   -oldOrg string
         old organization name (default "PerkinElmer")
+```
