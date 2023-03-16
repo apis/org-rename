@@ -1,7 +1,7 @@
 # org-rename
 Small utility which allows mass update of GitHub organization name for local git repositories
 
-##Command line parameters
+## Command line parameters
 
 Usage of org-rename.exe:
   -directory string
