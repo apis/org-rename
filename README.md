@@ -1,2 +1,2 @@
 # org-replace
-Small utility which allows to update GitHub organization to new name for local repositories recursively
+Small utility which allows mass update of GitHub organization name for local git repositories
