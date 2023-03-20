@@ -18,7 +18,7 @@ Usage of org-rename.exe:
 ## Example run
 
 ```
-org-rename -directory . -oldOrg PerkinElmer -newOrg PerkinElmerAES -dryRun=false
+org-rename -directory=. -oldOrg=PerkinElmer -newOrg=PerkinElmerAES -dryRun=false
 
 [INFO] 2023-03-16 17:24:54 - Flag dryRun assigned to 'false'
 [INFO] 2023-03-16 17:24:54 - Flag directory assigned to '.'
